@@ -1,0 +1,6 @@
+terraform init = start terraform
+terraform plan = plan the build
+terraform apply = apply the code to create resources
+terraform destroy
+terraform plan -destroy = plan the destroy
+terraform apply -destroy = destry the resources built
