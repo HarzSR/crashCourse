@@ -4,3 +4,5 @@ terraform apply = apply the code to create resources
 terraform destroy
 terraform plan -destroy = plan the destroy
 terraform apply -destroy = destry the resources built
+
+terraform apply --auto-approve = If the code is not in a flow, then it will follow default flow and create accordingly
